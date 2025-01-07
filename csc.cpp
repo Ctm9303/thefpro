@@ -13,5 +13,5 @@ int main() {
 
     cout << "Tong cac so tu 1 den " << N << " la: " << sum << endl;
 
-    return 0;
+   
 }
